@@ -1,0 +1,24 @@
+body{
+	font-family: Calibri;
+}
+
+main{
+	width: 800px;
+	height: 500px;
+	margin: auto;
+	background-color: #cccccc;
+	padding: 30px;
+}
+
+h3{
+	background-color: #519ac2;
+	padding: 10px;
+}
+
+input{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+	margin-bottom: 5px;
+}
